@@ -1,0 +1,179 @@
+row_num,id,full_name,age,gender,country,salary,join_date,department,email,performance_rating,years_experience,is_active
+1,41,  Fatima Ivanov  ,62,Female,U.K.,"$102,304",2022-10-08 00:00:00,hr,,2.1,4,yes
+2,54,  Fatima Kim  ,58,NaN,U.K.,-1000,,sales,,-2,-3,yes
+3,35,  Emma Silva  ,twenty five,female,USA,"$50,042","May 14, 2019",hr,emma.silva777@EXAMPLE.com,-2,28,No
+4,110,Sam Diaz,-5,Female,US,84k,"May 14, 2019",finance,,five,-3,0
+5,160,mike rossi,41,female,Germany,84k,"May 14, 2019",,mike.rossi795@EXAMPLE.com,3.2,9,TRUE
+6,24,Omar Chen.,65,male,Germany,N/A,2021-10-04 00:00:00,,,4.2,1,no
+7,47,Wei Kim.,65,female,Canada,69548,,marketing,invalid_email,3.6,N/A,N
+8,73,david brown,200,female,U.K.,N/A,14-05-2019,HR,david.brown463@example.com,1.2,N/A,FALSE
+9,79,  Zoe Ahmed  ,-5,NaN,CANADA,N/A,"May 14, 2019",SALES,zoe.ahmed837@EXAMPLE.com,11,N/A,N
+10,39,Mike Diaz,,female,United States,,not available,,mike.diaz634@EXAMPLE.com,-2,N/A,Y
+11,65,  Sara Martinez  ,twenty five,Male,Germany,103696,not available,Marketing,,11,-3,No
+12,4,EMMA WILLIAMS,twenty five,male,IN,,14-05-2019,finance,invalid_email,1.9,14,N
+13,83,TOM DIAZ,-5,FEMALE,USA,N/A,2019/05/14,finance,tom.diaz685@example.com,,34,TRUE
+14,71,LISA GARCIA,200,,United States,120k,14-05-2019,,lisa.garcia173@example.com,,-3,N
+15,52,SAM BROWN,-5,MALE,U.K.,84k,2019/05/14,sales,sam.brown453@example,-2,N/A,Y
+16,7,  Sara Rossi  ,59,female,Canada,-1000,not available,,invalid_email,11,,yes
+17,85,Priya Brown,63,female,UK,30k,not available,I.T.,invalid_email,five,-3,N
+18,16,David Lee,,male,United States,89k,14-05-2019,sales,david.lee901@EXAMPLE.com,,19,
+19,155,Ravi Lee.,57,female,United States,"$35,357",not available,IT,invalid_email,five,-3,TRUE
+20,164,Carlos Garcia,-5,NaN,US,53183,14-05-2019,I.T.,carlos.garcia526@example.com,2.0,N/A,FALSE
+21,59,  Emma Rossi  ,-5,Female,India,"$37,015",2024-09-11 00:00:00,Sales,emma.rossi806@example,,13,1
+22,137,Ravi Wang.,50,F,USA,,2018-12-18 00:00:00,Operations,ravi.wang146@example,2.8,N/A,N
+23,26,Tom Wang,53,MALE,india,N/A,14-05-2019,,  tom.wang913@example.com  ,,N/A,yes
+24,26,TOM WANG,53,MALE,india,N/A,14-05-2019,,  tom.wang913@example.com  ,,N/A,yes
+25,72,Ali Ahmed,34,M,india,-1000,"May 14, 2019",,invalid_email,,-3,
+26,116,JOHN AHMED,,Male,CANADA,103352,,Sales,  john.ahmed412@example.com  ,1.9,-3,no
+27,48,David Rossi.,-5,Female,United Kingdom,,14-05-2019,Operations,,five,N/A,Yes
+28,42,Anna Kim.,36,MALE,Germany,N/A,"May 14, 2019",HR,invalid_email,11,-3,Yes
+29,90,Omar Chen.,200,Female,India,"$34,706",2022-12-29 00:00:00,,omar.chen699@example,,-3,Y
+30,84,nina khan,twenty five,Male,France,-1000,not available,Operations,nina.khan775@example,11,N/A,FALSE
+31,113,Omar Brown.,,Male,CANADA,113181,14-05-2019,Sales,omar.brown764@EXAMPLE.com,11,4,No
+32,5,Ravi Silva,twenty five,F,UK,-1000,2019/05/14,marketing,ravi.silva143@EXAMPLE.com,five,N/A,0
+33,133,  Maria Brown  ,twenty five,Female,,75k,,Operations,  maria.brown649@example.com  ,11,-3,TRUE
+34,99,MARIA GARCIA,-5,F,France,N/A,not available,Sales,maria.garcia47@example.com,-2,N/A,yes
+35,112,Emma Lee.,,,UK,"$95,341",not available,HR,,1.8,N/A,Yes
+36,131,john ivanov,twenty five,,United Kingdom,-1000,2019/05/14,SALES,john.ivanov276@example,1.6,-3,TRUE
+37,43,Mike Ahmed.,twenty five,female,US,-1000,14-05-2019,SALES,  mike.ahmed600@example.com  ,3.5,-3,TRUE
+38,68,mike silva,200,NaN,CANADA,N/A,14-05-2019,I.T.,mike.silva114@example,,19,no
+39,32,Maria Kim,28,NaN,USA,,,Marketing,invalid_email,3.8,19,0
+40,142,NINA ROSSI,200,female,india,N/A,14-05-2019,Sales,nina.rossi497@EXAMPLE.com,,N/A,TRUE
+41,6,RAVI WILLIAMS,200,male,US,"$45,033",not available,sales,  ravi.williams395@example.com  ,11,35,
+42,163,david johnson,35,Female,india,101638,"May 14, 2019",HR,  david.johnson322@example.com  ,2.4,-3,FALSE
+43,89,  Omar Williams  ,,M,France,108k,2020-10-19 00:00:00,Sales,omar.williams754@EXAMPLE.com,,-3,Y
+44,103,  Wei Rossi  ,,FEMALE,germany,93k,14-05-2019,finance,,11,N/A,no
+45,78,DAVID KIM,42,M,IN,-1000,2022-11-28 00:00:00,I.T.,,,N/A,no
+46,13,priya martinez,200,Male,IN,74k,14-05-2019,I.T.,,five,,no
+47,15,SARA DIAZ,55,NaN,United States,N/A,14-05-2019,marketing,,-2,-3,FALSE
+48,25,Nina Kim,twenty five,NaN,UK,,2019/05/14,SALES,,1.0,,yes
+49,152,MARIA WANG,24,male,FR,"$81,280",14-05-2019,finance,maria.wang87@EXAMPLE.com,,18,
+50,74,Sam Rossi,twenty five,Female,germany,"$87,341","May 14, 2019",sales,sam.rossi831@example,five,11,no
+51,9,NINA ROSSI,,FEMALE,UK,-1000,"May 14, 2019",finance,nina.rossi666@example,2.8,,No
+52,165,ZOE ROSSI,24,M,India,"$33,083","May 14, 2019",IT,,,16,Yes
+53,28,RAVI BROWN,200,F,CANADA,,not available,Operations,invalid_email,11,N/A,TRUE
+54,162,fatima nguyen,200,male,India,,not available,Finance,  fatima.nguyen64@example.com  ,11,-3,TRUE
+55,127,  Jane Lee  ,twenty five,Male,IN,N/A,,I.T.,jane.lee952@example.com,,-3,TRUE
+56,102,Fatima Khan.,25,Male,CANADA,,"May 14, 2019",hr,invalid_email,five,,1
+57,87,Anna Johnson,twenty five,female,Germany,,,HR,  anna.johnson360@example.com  ,11,N/A,Y
+58,88,jane lee,twenty five,M,USA,,2019/05/14,sales,,,,
+59,58,Omar Williams.,twenty five,M,Canada,N/A,14-05-2019,Sales,omar.williams707@example,2.8,23,
+60,45,Jane Chen.,200,MALE,US,"$60,003","May 14, 2019",Operations,jane.chen497@example.com,3.5,-3,1
+61,44,David Johnson,200,MALE,Germany,111846,2023-02-06 00:00:00,IT,david.johnson259@example,,N/A,TRUE
+62,104,Fatima Silva.,-5,female,UK,87k,14-05-2019,hr,,five,N/A,TRUE
+63,23,ANNA ROSSI,twenty five,FEMALE,IN,,2024-02-23 00:00:00,marketing,anna.rossi294@EXAMPLE.com,five,N/A,FALSE
+64,18,  Jane Smith  ,-5,M,CANADA,N/A,2018-02-09 00:00:00,sales,,11,,TRUE
+65,67,Ali Smith,51,FEMALE,Canada,45k,,IT,invalid_email,4.5,10,
+66,144,Sara Silva.,41,MALE,UK,-1000,14-05-2019,Sales,sara.silva461@example,-2,,no
+67,154,ravi diaz,twenty five,M,,34567,14-05-2019,Marketing,ravi.diaz41@example.com,11,N/A,TRUE
+68,64,  Lisa Johnson  ,twenty five,MALE,United States,,,Operations,lisa.johnson382@EXAMPLE.com,,-3,
+69,135,ali martinez,,MALE,FR,,2024-02-05 00:00:00,,ali.martinez992@example,,40,No
+70,43,MIKE AHMED.,twenty five,female,US,-1000,14-05-2019,SALES,  mike.ahmed600@example.com  ,3.5,-3,TRUE
+71,106,SAM AHMED,,Female,United Kingdom,77k,2023-04-19 00:00:00,finance,sam.ahmed790@EXAMPLE.com,3.2,N/A,FALSE
+72,46,john rossi,23,MALE,India,-1000,not available,Operations,  john.rossi280@example.com  ,4.9,,TRUE
+73,36,anna ahmed,-5,NaN,France,92k,,hr,anna.ahmed339@example,11,14,no
+74,66,CARLOS DIAZ,,NaN,USA,113k,2019/05/14,marketing,carlos.diaz720@example,2.4,N/A,No
+75,51,Anna Smith,-5,F,France,N/A,not available,finance,anna.smith812@EXAMPLE.com,-2,,FALSE
+76,93,  Tom Brown  ,-5,Female,France,35k,,hr,tom.brown282@EXAMPLE.com,3.5,,0
+77,119,zoe martinez,51,FEMALE,United Kingdom,-1000,"May 14, 2019",IT,invalid_email,11,24,No
+78,20,DAVID MARTINEZ,twenty five,male,FR,"$86,694",14-05-2019,marketing,david.martinez841@EXAMPLE.com,-2,-3,No
+79,146,sara brown,twenty five,M,india,116k,,I.T.,sara.brown502@EXAMPLE.com,-2,N/A,No
+80,126,ravi kumar,53,Male,IN,-1000,not available,sales,invalid_email,five,N/A,Y
+81,69,Ravi Kim,-5,Female,india,58491,"May 14, 2019",Operations,ravi.kim441@EXAMPLE.com,3.1,-3,No
+82,77,  Lisa Nguyen  ,-5,M,UK,"$88,736",2019/05/14,sales,lisa.nguyen303@example.com,five,33,
+83,121,Ravi Wang.,-5,female,France,92215,14-05-2019,Marketing,ravi.wang380@example,3.3,9,Y
+84,11,Ali Diaz.,200,FEMALE,UK,,"May 14, 2019",I.T.,,five,6,TRUE
+85,12,DAVID GARCIA,,MALE,india,,2020-10-20 00:00:00,HR,invalid_email,,0,no
+86,157,  Emma Brown  ,64,F,Canada,33k,,sales,  emma.brown509@example.com  ,,-3,yes
+87,158,Carlos Garcia.,61,Female,USA,30772,14-05-2019,I.T.,carlos.garcia943@EXAMPLE.com,1.7,N/A,no
+88,161,John Ahmed.,twenty five,Male,germany,-1000,2021-06-13 00:00:00,Marketing,john.ahmed543@EXAMPLE.com,4.8,17,Yes
+89,10,David Smith.,,Female,USA,34305,2020-07-26 00:00:00,Sales,david.smith881@example,five,,1
+90,147,Mike Kumar.,twenty five,F,CANADA,88968,,HR,,,,TRUE
+91,129,zoe kumar,,FEMALE,United States,-1000,2018-10-29 00:00:00,marketing,  zoe.kumar158@example.com  ,five,-3,N
+92,30,Sam Smith,45,MALE,IN,73k,"May 14, 2019",IT,  sam.smith346@example.com  ,-2,16,FALSE
+93,40,Sam Kim,57,Female,UK,"$111,563",2019/05/14,hr,sam.kim77@EXAMPLE.com,,-3,Yes
+94,57,John Kim.,57,male,CANADA,,2019/05/14,Sales,john.kim969@example.com,2.2,,TRUE
+95,13,PRIYA MARTINEZ,200,Male,IN,74k,14-05-2019,I.T.,,five,,no
+96,123,EMMA PATEL,200,M,US,-1000,2018-07-18 00:00:00,I.T.,,1.9,N/A,N
+97,138,nina garcia,200,F,United States,64356,14-05-2019,finance,,five,,1
+98,141,  Maria Patel  ,57,M,germany,40448,14-05-2019,Operations,invalid_email,,N/A,yes
+99,60,WEI DIAZ,39,NaN,USA,N/A,2019/05/14,sales,wei.diaz677@example.com,2.4,-3,Yes
+100,109,SAM CHEN,200,FEMALE,germany,36368,2019/05/14,HR,sam.chen332@EXAMPLE.com,-2,-3,Y
+101,45,Jane Chen.,200,MALE,US,"$60,003","May 14, 2019",Operations,jane.chen497@example.com,3.5,-3,1
+102,156,FATIMA KHAN,23,MALE,US,-1000,2019-12-21 00:00:00,Sales,fatima.khan725@EXAMPLE.com,11,-3,yes
+103,37,David Garcia.,29,Female,,N/A,14-05-2019,sales,david.garcia853@EXAMPLE.com,11,,Y
+104,140,Mike Diaz,-5,F,UK,-1000,not available,finance,invalid_email,2.6,-3,FALSE
+105,159,david ahmed,-5,male,France,40650,2019/05/14,,david.ahmed529@example.com,-2,-3,N
+106,53,wei kumar,200,NaN,France,114k,,I.T.,wei.kumar282@example.com,five,N/A,Y
+107,134,Emma Garcia.,,M,USA,,,sales,  emma.garcia839@example.com  ,11,-3,
+108,62,john khan,twenty five,male,,118375,not available,SALES,john.khan68@EXAMPLE.com,,N/A,0
+109,49,Ali Nguyen.,200,male,CANADA,,2019-09-25 00:00:00,HR,ali.nguyen801@example,five,-3,
+110,31,John Rossi,twenty five,male,US,29067,2019/05/14,SALES,,-2,-3,yes
+111,145,Sam Williams.,45,NaN,india,N/A,not available,marketing,invalid_email,11,-3,1
+112,14,Anna Chen,,Male,germany,,not available,SALES,invalid_email,,,TRUE
+113,96,Ali Williams.,-5,Female,CANADA,"$60,058",2019-08-01 00:00:00,Sales,  ali.williams298@example.com  ,2.7,-3,no
+114,97,Priya Kelly.,-5,MALE,USA,,2019/05/14,Finance,priya.kelly362@example.com,five,-3,1
+115,56,ali ahmed,53,FEMALE,USA,,,Operations,ali.ahmed689@example,11,,FALSE
+116,76,  Maria Brown  ,twenty five,M,France,-1000,2019/05/14,Finance,maria.brown726@example.com,11,8,
+117,136,FATIMA WILLIAMS,59,NaN,FR,68463,14-05-2019,Marketing,,,N/A,N
+118,115,Ali Ahmed,200,,Canada,"$74,712",14-05-2019,SALES,ali.ahmed283@EXAMPLE.com,4.7,N/A,0
+119,122,Zoe Diaz.,-5,M,UK,N/A,"May 14, 2019",hr,,-2,N/A,yes
+120,33,Jane Williams.,-5,male,germany,26658,14-05-2019,finance,  jane.williams913@example.com  ,five,-3,0
+121,81,  Ravi Lee  ,-5,male,germany,29k,,SALES,,2.9,-3,no
+122,17,Zoe Ivanov,26,male,india,"$61,930",2019/05/14,finance,zoe.ivanov650@example,3.0,N/A,Y
+123,92,tom martinez,22,F,United States,N/A,2019/05/14,,,4.1,27,No
+124,100,MARIA NGUYEN,-5,M,FR,100k,not available,hr,,3.3,-3,
+125,101,Sara Martinez.,twenty five,Male,,N/A,,Sales,  sara.martinez598@example.com  ,,,
+126,125,SARA NGUYEN,,,U.K.,71457,"May 14, 2019",HR,sara.nguyen579@EXAMPLE.com,five,5,No
+127,79,  Zoe Ahmed  ,-5,NaN,CANADA,N/A,"May 14, 2019",SALES,zoe.ahmed837@EXAMPLE.com,11,N/A,N
+128,75,Omar Wang.,57,F,France,77k,2024-09-14 00:00:00,,,,-3,Y
+129,12,DAVID GARCIA,,MALE,india,,2020-10-20 00:00:00,HR,invalid_email,,0,no
+130,118,  Nina Khan  ,200,,germany,"$79,568","May 14, 2019",SALES,invalid_email,11,N/A,Yes
+131,86,  Jane Johnson  ,200,FEMALE,CANADA,,14-05-2019,,jane.johnson532@example,4.2,,1
+132,2,  Omar Diaz  ,twenty five,FEMALE,germany,52k,2019-02-23 00:00:00,I.T.,omar.diaz100@example,4.4,29,TRUE
+133,114,  Nina Khan  ,29,FEMALE,France,,,finance,invalid_email,1.5,N/A,1
+134,36,anna ahmed,-5,NaN,France,92k,,hr,anna.ahmed339@example,11,14,no
+135,117,Sam Johnson.,-5,Female,Germany,"$111,535",14-05-2019,marketing,invalid_email,4.5,N/A,1
+136,19,  Ali Khan  ,-5,Female,United Kingdom,N/A,not available,Operations,ali.khan159@EXAMPLE.com,4.9,26,yes
+137,24,OMAR CHEN.,65,male,Germany,N/A,2021-10-04 00:00:00,,,4.2,1,no
+138,55,  Mike Ivanov  ,44,Female,india,N/A,2019/05/14,marketing,  mike.ivanov936@example.com  ,11,N/A,No
+139,159,david ahmed,-5,male,France,40650,2019/05/14,,david.ahmed529@example.com,-2,-3,N
+140,29,Zoe Rossi.,49,female,Canada,74k,,SALES,  zoe.rossi861@example.com  ,,N/A,0
+141,128,Ali Lee.,65,male,Canada,N/A,"May 14, 2019",,ali.lee335@example.com,-2,,N
+142,50,  Zoe Kumar  ,200,,US,-1000,2019/05/14,Operations,  zoe.kumar93@example.com  ,five,N/A,yes
+143,95,  Zoe Ivanov  ,twenty five,FEMALE,Germany,84446,"May 14, 2019",I.T.,  zoe.ivanov496@example.com  ,11,-3,TRUE
+144,21,Carlos Williams.,,F,USA,N/A,2020-12-23 00:00:00,sales,  carlos.williams611@example.com  ,-2,38,TRUE
+145,38,Jane Khan.,62,MALE,India,,"May 14, 2019",IT,jane.khan189@example.com,2.0,N/A,FALSE
+146,80,Zoe Garcia.,25,M,U.K.,,2019/05/14,HR,zoe.garcia906@example,-2,-3,no
+147,124,Jane Kim.,200,Male,USA,94758,not available,Operations,invalid_email,five,,No
+148,34,zoe kelly,,female,germany,,"May 14, 2019",Finance,,11,N/A,no
+149,8,Emma Patel.,,F,,71k,2020-09-07 00:00:00,Marketing,invalid_email,-2,,yes
+150,63,tom ivanov,200,male,India,-1000,"May 14, 2019",HR,tom.ivanov910@EXAMPLE.com,-2,26,N
+151,113,OMAR BROWN.,,Male,CANADA,113181,14-05-2019,Sales,omar.brown764@EXAMPLE.com,11,4,No
+152,98,john garcia,twenty five,F,FR,72964,not available,Marketing,invalid_email,-2,-3,0
+153,111,FATIMA AHMED,200,NaN,France,,,Marketing,fatima.ahmed781@EXAMPLE.com,3.7,N/A,1
+154,105,  Emma Brown  ,twenty five,male,France,-1000,2019/05/14,Marketing,invalid_email,11,8,0
+155,70,ravi khan,19,F,Canada,-1000,14-05-2019,sales,ravi.khan415@example.com,,-3,No
+156,91,  Priya Patel  ,50,Female,india,28k,not available,IT,invalid_email,1.5,N/A,FALSE
+157,130,Sara Lee,-5,female,India,,not available,hr,  sara.lee525@example.com  ,,-3,TRUE
+158,61,Priya Silva,200,,India,82k,not available,sales,invalid_email,five,-3,FALSE
+159,3,  Mike Rossi  ,-5,NaN,UK,-1000,14-05-2019,sales,mike.rossi876@EXAMPLE.com,-2,-3,yes
+160,67,Ali Smith,51,FEMALE,Canada,45k,,IT,invalid_email,4.5,10,
+161,151,Ravi Lee,-5,female,india,-1000,2019-08-09 00:00:00,hr,ravi.lee577@example.com,11,,TRUE
+162,82,Ali Rossi.,51,female,United Kingdom,"$40,970",,,  ali.rossi638@example.com  ,-2,38,
+163,27,  Nina Wang  ,-5,,,,,marketing,nina.wang241@example,2.3,,no
+164,143,nina martinez,49,NaN,USA,29k,not available,marketing,  nina.martinez173@example.com  ,-2,35,0
+165,94,SAM BROWN,twenty five,NaN,germany,98874,,,sam.brown591@example,-2,39,FALSE
+166,149,LISA CHEN,37,female,United States,110798,,finance,lisa.chen170@example.com,five,N/A,
+167,48,David Rossi.,-5,Female,United Kingdom,,14-05-2019,Operations,,five,N/A,Yes
+168,120,Wei Diaz.,48,F,Germany,-1000,,,wei.diaz491@EXAMPLE.com,-2,-3,Y
+169,150,Mike Garcia,31,M,United Kingdom,93084,,IT,mike.garcia837@example.com,2.7,30,no
+170,139,Priya Johnson.,47,FEMALE,IN,,2022-06-09 00:00:00,Operations,priya.johnson629@EXAMPLE.com,2.8,,Y
+171,146,sara brown,twenty five,M,india,116k,,I.T.,sara.brown502@EXAMPLE.com,-2,N/A,No
+172,108,Anna Diaz.,-5,MALE,,84k,2020-02-29 00:00:00,IT,,2.0,-3,Y
+173,148,  Wei Kelly  ,-5,,india,-1000,2018-07-18 00:00:00,sales,  wei.kelly642@example.com  ,4.7,N/A,Yes
+174,22,  Sam Chen  ,200,Male,UK,-1000,not available,IT,sam.chen680@example.com,11,-3,TRUE
+175,1,  Sara Smith  ,32,male,United States,102397,2019/05/14,Marketing,invalid_email,five,N/A,no
+176,132,Anna Kelly,34,MALE,UK,42k,"May 14, 2019",IT,invalid_email,-2,N/A,
+177,153,Anna Chen.,50,FEMALE,Germany,,2022-04-30 00:00:00,Marketing,,3.4,-3,yes
+178,107,  Wei Ivanov  ,36,male,United Kingdom,"$119,780",2019/05/14,Sales,  wei.ivanov857@example.com  ,five,18,Yes

@@ -1,0 +1,166 @@
+id,full_name,age,gender,country,salary,join_date,department,email,performance_rating,years_experience,is_active
+1,Sara smith,32,Male,Usa,102397.0,2019-05-14,Marketing,Not Provided,5,3.0,No
+2,Omar diaz,28,Female,Germany,52000.0,2019-02-23,Information Technology,omar.diaz100@example.com,4,1.0,Yes
+3,Mike rossi,5,Unknown,United Kingdom,1000.0,2019-05-14,Sales,mike.rossi876@example.com,2,3.0,Yes
+4,Emma williams,21,Male,India,10957.0,2019-05-14,Finance,Not Provided,1,1.0,No
+5,Ravi silva,32,Female,United Kingdom,1000.0,2019-05-14,Marketing,ravi.silva143@example.com,5,1.0,No
+6,Ravi williams,44,Male,Usa,45033.0,,Sales,ravi.williams395@example.com,3,1.0,Unknown
+7,Sara rossi,59,Female,Canada,1000.0,,Not Provided,Not Provided,3,2.0,Yes
+8,Emma patel,54,Female,Not Provided,71000.0,2020-09-07,Marketing,Not Provided,2,4.0,Yes
+9,Nina rossi,59,Female,United Kingdom,1000.0,2019-05-14,Finance,nina.rossi666@example.com,2,1.0,No
+10,David smith,21,Female,Usa,34305.0,2020-07-26,Sales,david.smith881@example.com,5,4.0,Yes
+11,Ali diaz,46,Female,United Kingdom,25914.0,2019-05-14,Information Technology,Not Provided,5,6.0,Yes
+12,David garcia,52,Male,India,28374.0,2020-10-20,Human Resource,Not Provided,3,0.0,No
+13,Priya martinez,21,Male,India,74000.0,2019-05-14,Information Technology,Not Provided,5,2.0,No
+14,Anna chen,58,Male,Germany,22712.0,,Sales,Not Provided,3,2.0,Yes
+15,Sara diaz,55,Unknown,Usa,19488.0,2019-05-14,Marketing,Not Provided,2,3.0,No
+16,David lee,38,Male,Usa,89000.0,2019-05-14,Sales,david.lee901@example.com,3,4.0,Unknown
+17,Zoe ivanov,26,Male,India,61930.0,2019-05-14,Finance,zoe.ivanov650@example.com,3,3.0,Yes
+18,Jane smith,5,Male,Canada,13229.0,2018-02-09,Sales,Not Provided,3,3.0,Yes
+19,Ali khan,5,Female,United Kingdom,10927.0,,Operations,ali.khan159@example.com,4,3.0,Yes
+20,David martinez,34,Male,France,86694.0,2019-05-14,Marketing,david.martinez841@example.com,2,3.0,No
+21,Carlos williams,30,Female,Usa,30442.0,2020-12-23,Sales,carlos.williams611@example.com,2,3.0,Yes
+22,Sam chen,52,Male,United Kingdom,1000.0,,Information Technology,sam.chen680@example.com,3,3.0,Yes
+23,Anna rossi,49,Female,India,22657.0,2024-02-23,Marketing,anna.rossi294@example.com,5,1.0,No
+24,Omar chen,65,Male,Germany,34181.0,2021-10-04,Not Provided,Not Provided,4,1.0,No
+25,Nina kim,57,Unknown,United Kingdom,12496.0,2019-05-14,Sales,Not Provided,1,4.0,Yes
+26,Tom wang,53,Male,India,9284.0,2019-05-14,Not Provided,tom.wang913@example.com,3,4.0,Yes
+27,Nina wang,5,Unknown,Not Provided,5164.0,,Marketing,nina.wang241@example.com,2,3.0,No
+28,Ravi brown,49,Female,Canada,23203.0,,Operations,Not Provided,3,3.0,Yes
+29,Zoe rossi,49,Female,Canada,74000.0,,Sales,zoe.rossi861@example.com,3,1.0,No
+30,Sam smith,45,Male,India,73000.0,2019-05-14,Information Technology,sam.smith346@example.com,2,4.0,No
+31,John rossi,20,Male,Usa,29067.0,2019-05-14,Sales,Not Provided,2,3.0,Yes
+32,Maria kim,28,Unknown,Usa,29361.0,,Marketing,Not Provided,3,1.0,No
+33,Jane williams,5,Male,Germany,26658.0,2019-05-14,Finance,jane.williams913@example.com,5,3.0,No
+34,Zoe kelly,44,Female,Germany,21873.0,2019-05-14,Finance,Not Provided,3,2.0,No
+35,Emma silva,40,Female,Usa,50042.0,2019-05-14,Human Resource,emma.silva777@example.com,2,4.0,No
+36,Anna ahmed,5,Unknown,France,92000.0,,Human Resource,anna.ahmed339@example.com,3,1.0,No
+37,David garcia,29,Female,Not Provided,11426.0,2019-05-14,Sales,david.garcia853@example.com,3,1.0,Yes
+38,Jane khan,62,Male,India,7918.0,2019-05-14,Information Technology,jane.khan189@example.com,2,1.0,No
+39,Mike diaz,38,Female,Usa,11191.0,,Not Provided,mike.diaz634@example.com,2,4.0,Yes
+40,Sam kim,57,Female,United Kingdom,111563.0,2019-05-14,Human Resource,sam.kim77@example.com,3,3.0,Yes
+41,Fatima ivanov,62,Female,United Kingdom,102304.0,2022-10-08,Human Resource,Not Provided,2,4.0,Yes
+42,Anna kim,36,Male,Germany,22228.0,2019-05-14,Human Resource,Not Provided,3,3.0,Yes
+43,Mike ahmed,32,Female,Usa,1000.0,2019-05-14,Sales,mike.ahmed600@example.com,3,3.0,Yes
+44,David johnson,21,Male,Germany,111846.0,2023-02-06,Information Technology,david.johnson259@example.com,3,3.0,Yes
+45,Jane chen,35,Male,Usa,60003.0,2019-05-14,Operations,jane.chen497@example.com,3,3.0,Yes
+46,John rossi,23,Male,India,1000.0,,Operations,john.rossi280@example.com,4,3.0,Yes
+47,Wei kim,65,Female,Canada,69548.0,,Marketing,Not Provided,3,4.0,No
+48,David rossi,5,Female,United Kingdom,10524.0,2019-05-14,Operations,Not Provided,5,1.0,Yes
+49,Ali nguyen,54,Male,Canada,33854.0,2019-09-25,Human Resource,ali.nguyen801@example.com,5,3.0,Unknown
+50,Zoe kumar,22,Unknown,Usa,1000.0,2019-05-14,Operations,zoe.kumar93@example.com,5,1.0,Yes
+51,Anna smith,5,Female,France,9302.0,,Finance,anna.smith812@example.com,2,3.0,No
+52,Sam brown,5,Male,United Kingdom,84000.0,2019-05-14,Sales,sam.brown453@example.com,2,1.0,Yes
+53,Wei kumar,43,Unknown,France,114000.0,,Information Technology,wei.kumar282@example.com,5,1.0,Yes
+54,Fatima kim,58,Unknown,United Kingdom,1000.0,,Sales,Not Provided,2,3.0,Yes
+55,Mike ivanov,44,Female,India,10943.0,2019-05-14,Marketing,mike.ivanov936@example.com,3,4.0,No
+56,Ali ahmed,53,Female,Usa,13591.0,,Operations,ali.ahmed689@example.com,3,2.0,No
+57,John kim,57,Male,Canada,20664.0,2019-05-14,Sales,john.kim969@example.com,2,1.0,Yes
+58,Omar williams,41,Male,Canada,15051.0,2019-05-14,Sales,omar.williams707@example.com,2,1.0,Unknown
+59,Emma rossi,5,Female,India,37015.0,2024-09-11,Sales,emma.rossi806@example.com,3,4.0,Yes
+60,Wei diaz,39,Unknown,Usa,17798.0,2019-05-14,Sales,wei.diaz677@example.com,2,3.0,Yes
+61,Priya silva,47,Unknown,India,82000.0,,Sales,Not Provided,5,3.0,No
+62,John khan,56,Male,Not Provided,118375.0,,Sales,john.khan68@example.com,3,2.0,No
+63,Tom ivanov,57,Male,India,1000.0,2019-05-14,Human Resource,tom.ivanov910@example.com,2,3.0,No
+64,Lisa johnson,33,Male,Usa,9120.0,,Operations,lisa.johnson382@example.com,3,3.0,Unknown
+65,Sara martinez,53,Male,Germany,103696.0,,Marketing,Not Provided,3,3.0,No
+66,Carlos diaz,57,Unknown,Usa,113000.0,2019-05-14,Marketing,carlos.diaz720@example.com,2,4.0,No
+67,Ali smith,51,Female,Canada,45000.0,,Information Technology,Not Provided,4,4.0,Unknown
+68,Mike silva,51,Unknown,Canada,6149.0,2019-05-14,Information Technology,mike.silva114@example.com,3,2.0,No
+69,Ravi kim,5,Female,India,58491.0,2019-05-14,Operations,ravi.kim441@example.com,3,3.0,No
+70,Ravi khan,19,Female,Canada,1000.0,2019-05-14,Sales,ravi.khan415@example.com,3,3.0,No
+71,Lisa garcia,43,Unknown,Usa,120000.0,2019-05-14,Not Provided,lisa.garcia173@example.com,3,3.0,No
+72,Ali ahmed,34,Male,India,1000.0,2019-05-14,Not Provided,Not Provided,3,3.0,Unknown
+73,David brown,31,Female,United Kingdom,14244.0,2019-05-14,Human Resource,david.brown463@example.com,1,4.0,No
+74,Sam rossi,41,Female,Germany,87341.0,2019-05-14,Sales,sam.rossi831@example.com,5,3.0,No
+75,Omar wang,57,Female,France,77000.0,2024-09-14,Not Provided,Not Provided,3,3.0,Yes
+76,Maria brown,31,Male,France,1000.0,2019-05-14,Finance,maria.brown726@example.com,3,3.0,Unknown
+77,Lisa nguyen,5,Male,United Kingdom,88736.0,2019-05-14,Sales,lisa.nguyen303@example.com,5,3.0,Unknown
+78,David kim,42,Male,India,1000.0,2022-11-28,Information Technology,Not Provided,3,2.0,No
+79,Zoe ahmed,5,Unknown,Canada,20892.0,2019-05-14,Sales,zoe.ahmed837@example.com,3,3.0,No
+80,Zoe garcia,25,Male,United Kingdom,26101.0,2019-05-14,Human Resource,zoe.garcia906@example.com,2,3.0,No
+81,Ravi lee,5,Male,Germany,29000.0,,Sales,Not Provided,2,3.0,No
+82,Ali rossi,51,Female,United Kingdom,40970.0,,Not Provided,ali.rossi638@example.com,2,2.0,Unknown
+83,Tom diaz,5,Female,Usa,29566.0,2019-05-14,Finance,tom.diaz685@example.com,3,3.0,Yes
+84,Nina khan,31,Male,France,1000.0,,Operations,nina.khan775@example.com,3,3.0,No
+85,Priya brown,63,Female,United Kingdom,30000.0,,Information Technology,Not Provided,5,3.0,No
+86,Jane johnson,32,Female,Canada,11169.0,2019-05-14,Not Provided,jane.johnson532@example.com,4,1.0,Yes
+87,Anna johnson,57,Female,Germany,28542.0,,Human Resource,anna.johnson360@example.com,3,4.0,Yes
+88,Jane lee,38,Male,Usa,11790.0,2019-05-14,Sales,Not Provided,3,1.0,Unknown
+89,Omar williams,26,Male,France,108000.0,2020-10-19,Sales,omar.williams754@example.com,3,3.0,Yes
+90,Omar chen,34,Female,India,34706.0,2022-12-29,Not Provided,omar.chen699@example.com,3,3.0,Yes
+91,Priya patel,50,Female,India,28000.0,,Information Technology,Not Provided,1,2.0,No
+92,Tom martinez,22,Female,Usa,18712.0,2019-05-14,Not Provided,Not Provided,4,2.0,No
+93,Tom brown,5,Female,France,35000.0,,Human Resource,tom.brown282@example.com,3,1.0,No
+94,Sam brown,20,Unknown,Germany,98874.0,,Not Provided,sam.brown591@example.com,2,3.0,No
+95,Zoe ivanov,28,Female,Germany,84446.0,2019-05-14,Information Technology,zoe.ivanov496@example.com,3,3.0,Yes
+96,Ali williams,5,Female,Canada,60058.0,2019-08-01,Sales,ali.williams298@example.com,2,3.0,No
+97,Priya kelly,5,Male,Usa,22588.0,2019-05-14,Finance,priya.kelly362@example.com,5,3.0,Yes
+98,John garcia,21,Female,France,72964.0,,Marketing,Not Provided,2,3.0,No
+99,Maria garcia,5,Female,France,29376.0,,Sales,maria.garcia47@example.com,2,2.0,Yes
+100,Maria nguyen,5,Male,France,100000.0,,Human Resource,Not Provided,3,3.0,Unknown
+101,Sara martinez,48,Male,Not Provided,27000.0,,Sales,sara.martinez598@example.com,3,4.0,Unknown
+102,Fatima khan,25,Male,Canada,26258.0,2019-05-14,Human Resource,Not Provided,5,3.0,Yes
+103,Wei rossi,28,Female,Germany,93000.0,2019-05-14,Finance,Not Provided,3,4.0,No
+104,Fatima silva,5,Female,United Kingdom,87000.0,2019-05-14,Human Resource,Not Provided,5,3.0,Yes
+105,Emma brown,46,Male,France,1000.0,2019-05-14,Marketing,Not Provided,3,1.0,No
+106,Sam ahmed,54,Female,United Kingdom,77000.0,2023-04-19,Finance,sam.ahmed790@example.com,3,2.0,No
+107,Wei ivanov,36,Male,United Kingdom,119780.0,2019-05-14,Sales,wei.ivanov857@example.com,5,2.0,Yes
+108,Anna diaz,5,Male,Not Provided,84000.0,2020-02-29,Information Technology,Not Provided,2,3.0,Yes
+109,Sam chen,49,Female,Germany,36368.0,2019-05-14,Human Resource,sam.chen332@example.com,2,3.0,Yes
+110,Sam diaz,5,Female,Usa,84000.0,2019-05-14,Finance,Not Provided,5,3.0,No
+111,Fatima ahmed,25,Unknown,France,34059.0,,Marketing,fatima.ahmed781@example.com,3,4.0,Yes
+112,Emma lee,21,Unknown,United Kingdom,95341.0,,Human Resource,Not Provided,1,3.0,Yes
+113,Omar brown,59,Male,Canada,113181.0,2019-05-14,Sales,omar.brown764@example.com,3,4.0,No
+114,Nina khan,29,Female,France,5071.0,,Finance,Not Provided,1,2.0,Yes
+115,Ali ahmed,23,Unknown,Canada,74712.0,2019-05-14,Sales,ali.ahmed283@example.com,4,2.0,No
+116,John ahmed,22,Male,Canada,103352.0,,Sales,john.ahmed412@example.com,1,3.0,No
+117,Sam johnson,5,Female,Germany,111535.0,2019-05-14,Marketing,Not Provided,4,1.0,Yes
+118,Nina khan,53,Unknown,Germany,79568.0,2019-05-14,Sales,Not Provided,3,1.0,Yes
+119,Zoe martinez,51,Female,United Kingdom,1000.0,2019-05-14,Information Technology,Not Provided,3,2.0,No
+120,Wei diaz,48,Female,Germany,1000.0,,Not Provided,wei.diaz491@example.com,2,3.0,Yes
+121,Ravi wang,5,Female,France,92215.0,2019-05-14,Marketing,ravi.wang380@example.com,3,2.0,Yes
+122,Zoe diaz,5,Male,United Kingdom,31309.0,2019-05-14,Human Resource,Not Provided,2,2.0,Yes
+123,Emma patel,21,Male,Usa,1000.0,2018-07-18,Information Technology,Not Provided,1,1.0,No
+124,Jane kim,47,Male,Usa,94758.0,,Operations,Not Provided,5,1.0,No
+125,Sara nguyen,57,Unknown,United Kingdom,71457.0,2019-05-14,Human Resource,sara.nguyen579@example.com,5,5.0,No
+126,Ravi kumar,53,Male,India,1000.0,,Sales,Not Provided,5,4.0,Yes
+127,Jane lee,34,Male,India,11443.0,,Information Technology,jane.lee952@example.com,3,3.0,Yes
+128,Ali lee,65,Male,Canada,7057.0,2019-05-14,Not Provided,ali.lee335@example.com,2,1.0,No
+129,Zoe kumar,34,Female,Usa,1000.0,2018-10-29,Marketing,zoe.kumar158@example.com,5,3.0,No
+130,Sara lee,5,Female,India,10319.0,,Human Resource,sara.lee525@example.com,3,3.0,Yes
+131,John ivanov,48,Unknown,United Kingdom,1000.0,2019-05-14,Sales,john.ivanov276@example.com,1,3.0,Yes
+132,Anna kelly,34,Male,United Kingdom,42000.0,2019-05-14,Information Technology,Not Provided,2,2.0,Unknown
+133,Maria brown,47,Female,Not Provided,75000.0,,Operations,maria.brown649@example.com,3,3.0,Yes
+134,Emma garcia,53,Male,Usa,30845.0,,Sales,emma.garcia839@example.com,3,3.0,Unknown
+135,Ali martinez,42,Male,France,31537.0,2024-02-05,Not Provided,ali.martinez992@example.com,3,2.0,No
+136,Fatima williams,59,Unknown,France,68463.0,2019-05-14,Marketing,Not Provided,3,1.0,No
+137,Ravi wang,50,Female,Usa,30719.0,2018-12-18,Operations,ravi.wang146@example.com,2,2.0,No
+138,Nina garcia,38,Female,Usa,64356.0,2019-05-14,Finance,Not Provided,5,3.0,Yes
+139,Priya johnson,47,Female,India,16195.0,2022-06-09,Operations,priya.johnson629@example.com,2,4.0,Yes
+140,Mike diaz,5,Female,United Kingdom,1000.0,,Finance,Not Provided,2,3.0,No
+141,Maria patel,57,Male,Germany,40448.0,2019-05-14,Operations,Not Provided,3,4.0,Yes
+142,Nina rossi,23,Female,India,11837.0,2019-05-14,Sales,nina.rossi497@example.com,3,2.0,Yes
+143,Nina martinez,49,Unknown,Usa,29000.0,,Marketing,nina.martinez173@example.com,2,2.0,No
+144,Sara silva,41,Male,United Kingdom,1000.0,2019-05-14,Sales,sara.silva461@example.com,2,2.0,No
+145,Sam williams,45,Unknown,India,13968.0,,Marketing,Not Provided,3,3.0,Yes
+146,Sara brown,49,Male,India,116000.0,,Information Technology,sara.brown502@example.com,2,2.0,No
+147,Mike kumar,36,Female,Canada,88968.0,,Human Resource,Not Provided,3,2.0,Yes
+148,Wei kelly,5,Unknown,India,1000.0,2018-07-18,Sales,wei.kelly642@example.com,4,2.0,Yes
+149,Lisa chen,37,Female,Usa,110798.0,,Finance,lisa.chen170@example.com,5,2.0,Unknown
+150,Mike garcia,31,Male,United Kingdom,93084.0,,Information Technology,mike.garcia837@example.com,2,4.0,No
+151,Ravi lee,5,Female,India,1000.0,2019-08-09,Human Resource,ravi.lee577@example.com,3,2.0,Yes
+152,Maria wang,24,Male,France,81280.0,2019-05-14,Finance,maria.wang87@example.com,3,3.0,Unknown
+153,Anna chen,50,Female,Germany,23497.0,2022-04-30,Marketing,Not Provided,3,3.0,Yes
+154,Ravi diaz,30,Male,Not Provided,34567.0,2019-05-14,Marketing,ravi.diaz41@example.com,3,3.0,Yes
+155,Ravi lee,57,Female,Usa,35357.0,,Information Technology,Not Provided,5,3.0,Yes
+156,Fatima khan,23,Male,Usa,1000.0,2019-12-21,Sales,fatima.khan725@example.com,3,3.0,Yes
+157,Emma brown,64,Female,Canada,33000.0,,Sales,emma.brown509@example.com,3,3.0,Yes
+158,Carlos garcia,61,Female,Usa,30772.0,2019-05-14,Information Technology,carlos.garcia943@example.com,1,3.0,No
+159,David ahmed,5,Male,France,40650.0,2019-05-14,Not Provided,david.ahmed529@example.com,2,3.0,No
+160,Mike rossi,41,Female,Germany,84000.0,2019-05-14,Not Provided,mike.rossi795@example.com,3,1.0,Yes
+161,John ahmed,33,Male,Germany,1000.0,2021-06-13,Marketing,john.ahmed543@example.com,4,1.0,Yes
+162,Fatima nguyen,52,Male,India,15700.0,,Finance,fatima.nguyen64@example.com,3,3.0,Yes
+163,David johnson,35,Female,India,101638.0,2019-05-14,Human Resource,david.johnson322@example.com,2,3.0,No
+164,Carlos garcia,5,Unknown,Usa,53183.0,2019-05-14,Information Technology,carlos.garcia526@example.com,2,1.0,No
+165,Zoe rossi,24,Male,India,33083.0,2019-05-14,Information Technology,Not Provided,3,1.0,Yes
