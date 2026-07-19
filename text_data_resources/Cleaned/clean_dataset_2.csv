@@ -1,0 +1,141 @@
+id,full_name,email,phone_number,gender,country,city,address,job_title,department,company_name,product_category,feedback_text,status,notes
+1,John Singh,johnsingh50@company.co.in,Unknown,Male,United States Of America,Mumbai,Unknown,Sr Software Engineer,Marketing,Startup Hub,Electronics,Bad Experience Customer Support Unhelpful,Pending,Pending Review
+2,Divya Verma,vermadivya@gmail.com,2819482199,Female,India,Mumbai,Unknown,Marketing Specialist,Sales,Global Traders Pvt Ltd,Beauty,Not Satisfied & Want Refund,Inactive,Not Provided
+3,Divya Gupta,divyagupta@gmail.com,Unknown,Female,India,Mumbai,712 Park Street,Sales Executive,Product,Tech Solutions Inc,Electronics,Product Was Okay Delivery Was Late,Inactive,None
+4,Rohan Verma,Unknown,Unknown,Male,United States Of America,New York,Unknown,Sr Software Engineer,Human Resources,Global Traders Pvt Ltd,Sports And Fitness,Excellent Quality Highly Recommend,Inactive,Follow Up Required
+5,Sophia Chopra,sophiachopra@yahoo.com,3212233079,Female,United Kingdom,Mumbai,Unknown,Hr Executive,Human Resources,Startup Hub,Electronics,Excellent Quality Highly Recommend,Not Provided,Not Provided
+6,Liam Brown,liambrown@outlook.com,6031372159,Male,India,Bangalore,Unknown,Sr Software Engineer,Engineering,Acme And Co,Sports And Fitness,Great Service Will Buy Again,Not Provided,
+7,Johnson Isabella,Unknown,Unknown,Not Provided,United States Of America,Not Provided,Unknown,Hr Executive,Human Resources,Startup Hub,Electronics,,Pending,
+8,Rohan Chopra,choprarohan@yahoocom,Unknown,Not Provided,United States Of America,New Delhi,"531 MG Road, Flat 3",Sr Software Engineer,Sales,Global Traders Pvt Ltd,Clothing,Product Was Okay Delivery Was Late,Pending,Not Provided
+9,Emma Johnson,emmajohnson@gmailcom,7353799075,Not Provided,India,London,490 Park Street,Marketing Specialist,Sales,Tech Solutions Inc,Sports And Fitness,Excellent Quality Highly Recommend,Inactive,None
+10,Anjali Reddy,Unknown,7299752882,Male,India,Not Provided,445 Park Street,Data Analyst,Engineering,Acme And Co,Clothing,Product Was Okay Delivery Was Late,Pending,Not Provided
+11,John Chopra,choprajohn@outlookcom,Unknown,Other,India,Toronto,624 Park Street,Data Analyst,Human Resources,Global Traders Pvt Ltd,Home And Kitchen,Excellent Quality Highly Recommend,Active,Not Provided
+12,William Clark,Unknown,1803340187,Male,India,Toronto,Unknown,Not Provided,Not Provided,Bright Future Llc,Clothing,Not Provided,Pending,
+13,Karan Anderson,karananderson@outlook.com,Unknown,Male,United Kingdom,Bangalore,"991 MG Road, Flat 3",Marketing Specialist,Not Provided,Tech Solutions Inc,Clothing,Great Service Will Buy Again,Inactive,Vip Customer
+14,John Taylor,johntaylor327@yahoo.com,5058770658,Other,India,Bangalore,941 MG Road,Sr Software Engineer,Sales,Acme And Co,Electronics,Not Provided,Active,
+15,Olivia Chopra,Unknown,9751402614,Not Provided,India,New Delhi,86 MG Road,Sales Executive,Engineering,Acme And Co,Beauty,Not Provided,Inactive,Vip Customer
+16,Priya Clark,priyaclark@gmailcom,4023448347,Not Provided,United States Of America,New Delhi,"356 MG Road, Apt 4B",Sr Software Engineer,Marketing,Bright Future Llc,Not Provided,Product Was Okay Delivery Was Late,Inactive,Follow Up Needed
+17,Olivia Wilson,Unknown,4335326502,Male,United Kingdom,London,Unknown,Not Provided,Sales,Bright Future Llc,Clothing,Not Provided,Inactive,Follow Up Next Week
+18,Anjali Reddy,anjalireddy@outlook.com,5585304352,Female,Canada,Mumbai,515 Park Street,Product Manager,Engineering,Tech Solutions Inc,Clothing,Not Provided,Active,Follow Up Required
+19,James Verma,jamesverma@gmail.com,3198296572,Not Provided,United States Of America,Mumbai,Unknown,Data Analyst,Engineering,Startup Hub,Clothing,Great Service Will Buy Again,Active,Follow Up Next Week
+20,Emma Patel,emmapatel572@outlook.com,0837407188,Not Provided,India,Toronto,867 Park Street,Data Analyst,Marketing,Startup Hub,Beauty,Excellent Quality Highly Recommend,Inactive,Follow Up Needed
+21,Meera Verma,meeraverma@gmailcom,5449920707,Not Provided,India,New Delhi,Unknown,Product Manager,Product,Global Traders Pvt Ltd,Beauty,,Active,Vip Customer
+22,Gupta Meera,meeragupta@gmail.com,1874633191,Not Provided,United Kingdom,New York,Unknown,Hr Executive,Marketing,Global Traders Pvt Ltd,Not Provided,Not Satisfied And Want A Refund,Active,Follow Up Required
+23,Ava Anderson,avaanderson@yahoocom,6565150556,Male,India,New York,Unknown,Sr Software Engineer,Finance,Global Traders Pvt Ltd,Clothing,Not Provided,Active,
+24,Priya Malhotra,priyamalhotra@gmail.com,6853560688,Not Provided,India,Mumbai,462 Park Street,Product Manager,Not Provided,Tech Solutions Inc,Home And Kitchen,Great Service Will Buy Again,Inactive,Pending Review
+25,Meera Malhotra,Unknown,4634786122,Male,Not Provided,New Delhi,Unknown,Data Analyst,Marketing,Acme And Co,Electronics,Great Service Will Buy Again,Inactive,Vip Customer
+26,John Iyer ,Unknown,3066683645,Female,United Kingdom,New York,95 Park Street,Marketing Specialist,Finance,Startup Hub,Beauty,Not Satisfied And Want A Refund,Inactive,Not Provided
+27,Vikram Verma,Unknown,7970168773,Male,United States Of America,Bangalore,Unknown,Sales Executive,Engineering,Bright Future Llc,Electronics,Great Service Will Buy Again,Active,Not Provided
+28,Priya Malhotra,Unknown,6111489364,Other,India,Mumbai,286 Park Street,Product Manager,Not Provided,Bright Future Llc,Clothing,Excellent Quality Highly Recommend,Active,Follow Up Next Week
+29,Meera Verma,Unknown,Unknown,Female,Canada,New Delhi,Unknown,Sr Software Engineer,Marketing,Global Traders Pvt Ltd,Clothing,Product Was Okay Delivery Was Late,Active,Not Provided
+30,Divya Chopra,Unknown,7923760926,Male,India,Bangalore,727 Park Street,Marketing Specialist,Product,Startup Hub,Books,Not Provided,Active,Follow Up Needed
+31,John Nair,Unknown,7046557210,Female,India,New York,575 Park Street,Marketing Specialist,Finance,Not Provided,Books,Not Provided,Inactive,Follow Up Needed
+32,Ava Nair ,avanair@gmail.com,3557063606,Female,India,Mumbai,Unknown,Hr Executive,Finance,Acme And Co,Books,Bad Experience Customer Support Unhelpful,Active,
+33,John Chopra,Unknown,Unknown,Male,Not Provided,Bangalore,843 Park Street,Product Manager,Sales,Acme And Co,Beauty,Not Satisfied & Want Refund,Pending,Follow Up Needed
+34,Karan Brown,karanbrown418@gmail.com,0788526114,Male,India,London,178 Park Street,Marketing Specialist,Product,Bright Future Llc,Clothing,Not Provided,Pending,Not Provided
+35,Sneha Malhotra,snehamalhotra@yahoo.com,5443732332,Other,United States Of America,New York,Unknown,Not Provided,Marketing,Startup Hub,Home And Kitchen,Bad Experience Customer Support Unhelpful,Inactive,Follow Up Next Week
+36,Aarav Wilson,aaravwilson@outlook.com,Unknown,Other,United States Of America,Toronto,Unknown,Sr Software Engineer,Human Resources,Startup Hub,Sports And Fitness,Product Was Okay Delivery Was Late,Active,Not Provided
+37,Vikram Verma,Unknown,3056529413,Female,Not Provided,Mumbai,Unknown,Data Analyst,Engineering,Startup Hub,Home And Kitchen,Not Satisfied And Want A Refund,Inactive,Pending Review
+38,Meera Taylor,Unknown,Unknown,Male,Australia,Bangalore,592 Park Street,Sales Executive,Human Resources,Tech Solutions Inc,Electronics,Great Service Will Buy Again,Pending,Follow Up Required
+39,Liam Gupta ,liamgupta@company.co.in,2542821167,Female,United States Of America,Mumbai,Unknown,Marketing Specialist,Engineering,Startup Hub,Home And Kitchen,Bad Experience Customer Support Unhelpful,Active,Vip Customer
+40,Nair Isabella,isabellanair@gmailcom,Unknown,Other,India,New York,Unknown,Product Manager,Product,Acme And Co,Clothing,Not Satisfied And Want A Refund,Inactive,No Notes
+41,Clark Noah,noahclark24@gmail.com,9773797276,Male,United States Of America,New York,Unknown,Not Provided,Engineering,Tech Solutions Inc,Home And Kitchen,Great Service Will Buy Again,Inactive,Not Provided
+42,William Gupta,williamgupta@gmail.com,2019132742,Male,Canada,New Delhi,629 Park Street,Sales Executive,Human Resources,Acme And Co,Not Provided,Product Was Okay Delivery Was Late,Pending,
+43,William Iyer ,williamiyer@yahoocom,2624562418,Not Provided,Canada,Toronto,Unknown,Marketing Specialist,Finance,Acme And Co,Sports And Fitness,Not Satisfied & Want Refund,Pending,Follow Up Required
+44,Gupta John,Unknown,Unknown,Female,Australia,London,918 Park Street,Sales Executive,Marketing,Bright Future Llc,Electronics,Great Service Will Buy Again,Active,Follow Up Next Week
+45,Emma Malhotra,Unknown,3694923597,Male,India,New Delhi,725 MG Road,Data Analyst,Sales,Global Traders Pvt Ltd,Clothing,Great Service Will Buy Again,Active,No Notes
+46,Hall Emma,Unknown,7320008062,Male,India,Bangalore,146 Park Street,Not Provided,Product,Bright Future Llc,Home And Kitchen,Excellent Quality Highly Recommend,Inactive,Follow Up Needed
+47,Priya Wilson,Unknown,6717231430,Female,United Kingdom,Mumbai,Unknown,Product Manager,Sales,Startup Hub,Clothing,Great Service Will Buy Again,Pending,Follow Up Next Week
+48,Arjun Iyer,arjuniyer@gmail.com,3659368778,Male,Australia,New Delhi,Unknown,Sr Software Engineer,Human Resources,Tech Solutions Inc,Electronics,Great Service Will Buy Again,Active,Follow Up Needed
+49,Anjali Johnson,anjalijohnson30@company.co.in,0201019538,Not Provided,Canada,Bangalore,253 MG Road,Sr Software Engineer,Engineering,Not Provided,Books,Excellent Quality Highly Recommend,Active,Follow Up Required
+50,Karan Malhotra ,karanmalhotra@yahoo.com,Unknown,Other,India,London,"32 MG Road, Flat 3",Hr Executive,Not Provided,Startup Hub,Electronics,Excellent Quality Highly Recommend,Pending,Not Provided
+51,Rohan Walker,rohanwalker447@gmail.com,Unknown,Other,Canada,Not Provided,291 Park Street,Product Manager,Not Provided,Tech Solutions Inc,Home And Kitchen,Bad Experience Customer Support Unhelpful,Active,Pending Review
+52,Sophia Patel ,sophiapatel@yahoo.com,6160534468,Male,Canada,New Delhi,Unknown,Sr Software Engineer,Finance,Bright Future Llc,Books,Excellent Quality Highly Recommend,Active,Not Provided
+53,Sophia Smith,Unknown,4932573834,Not Provided,United States Of America,Bangalore,Unknown,Not Provided,Finance,Tech Solutions Inc,Clothing,Not Satisfied & Want Refund,Active,
+54,Sneha Reddy,snehareddy@gmailcom,Unknown,Female,India,Mumbai,Unknown,Product Manager,Product,Tech Solutions Inc,Home And Kitchen,Product Was Okay Delivery Was Late,Pending,None
+55,Aarav Iyer,Unknown,6393217654,Female,United States Of America,London,Unknown,Sales Executive,Product,Tech Solutions Inc,Beauty,Excellent Quality Highly Recommend,Not Provided,No Notes
+56,John Sharma,johnsharma930@outlook.com,Unknown,Other,United States Of America,Toronto,812 Park Street,Not Provided,Sales,Global Traders Pvt Ltd,Beauty,Product Was Okay Delivery Was Late,Not Provided,Follow Up Required
+57,William Patel ,williampatel@company.co.in,4660016659,Male,United States Of America,New York,Unknown,Product Manager,Finance,Global Traders Pvt Ltd,Clothing,Great Service Will Buy Again,Active,Not Provided
+58,Karan Wilson,Unknown,2567482753,Not Provided,Canada,New Delhi,Unknown,Product Manager,Finance,Acme And Co,Books,Not Satisfied & Want Refund,Inactive,Pending Review
+59,Isabella Gupta ,isabellagupta@gmail.com,6019528590,Male,India,New York,593 Park Street,Data Analyst,Product,Acme And Co,Home And Kitchen,Product Was Okay Delivery Was Late,Inactive,Not Provided
+60,Anjali Hall,Unknown,4373817181,Female,United States Of America,Bangalore,Unknown,Sales Executive,Human Resources,Startup Hub,Not Provided,Product Was Okay Delivery Was Late,Inactive,Follow Up Required
+61,Isabella Sharma,Unknown,9747566125,Male,India,New York,Unknown,Data Analyst,Engineering,Acme And Co,Beauty,Bad Experience Customer Support Unhelpful,Active,Not Provided
+62,Smith Emma,Unknown,Unknown,Female,Canada,New York,519 Park Street,Data Analyst,Not Provided,Not Provided,Home And Kitchen,Not Satisfied & Want Refund,Active,Not Provided
+63,Meera Singh,Unknown,8689064100,Female,India,Not Provided,Unknown,Sr Software Engineer,Marketing,Tech Solutions Inc,Beauty,Bad Experience Customer Support Unhelpful,Active,Follow Up Needed
+64,Anjali Verma,Unknown,Unknown,Male,Australia,Mumbai,Unknown,Marketing Specialist,Product,Tech Solutions Inc,Electronics,Bad Experience Customer Support Unhelpful,Inactive,Vip Customer
+65,Vikram Wilson,vikramwilson105@gmail.com,7320600113,Male,Not Provided,Mumbai,Unknown,Data Analyst,Engineering,Acme And Co,Home And Kitchen,Not Provided,Active,
+66,Wilson Sophia,sophiawilson@company.co.in,Unknown,Female,India,New York,482 Park Street,Data Analyst,Human Resources,Acme And Co,Home And Kitchen,Bad Experience Customer Support Unhelpful,Inactive,Pending Review
+67,Noah Chopra ,noahchopra287@yahoo.com,9959029496,Female,Canada,London,463 Park Street,Sr Software Engineer,Sales,Acme And Co,Clothing,Not Satisfied And Want A Refund,Active,Vip Customer
+68,Meera Singh,Unknown,8758188763,Female,India,London,Unknown,Sr Software Engineer,Finance,Global Traders Pvt Ltd,Electronics,Excellent Quality Highly Recommend,Inactive,Not Provided
+69,Divya Brown,Unknown,8578933331,Not Provided,United Kingdom,New York,Unknown,Data Analyst,Marketing,Tech Solutions Inc,Not Provided,Not Satisfied & Want Refund,Active,Not Provided
+70,Noah Gupta,noahgupta612@yahoo.com,5489010397,Female,United Kingdom,London,Unknown,Data Analyst,Sales,Tech Solutions Inc,Books,Product Was Okay Delivery Was Late,Active,Pending Review
+71,Aarav Verma,Unknown,7719611459,Not Provided,India,Not Provided,460 Park Street,Hr Executive,Marketing,Startup Hub,Clothing,Great Service Will Buy Again,Active,
+72,Priya Lewis,Unknown,Unknown,Not Provided,India,Toronto,"332 MG Road, Suite 12",Hr Executive,Not Provided,Global Traders Pvt Ltd,Home And Kitchen,Excellent Quality Highly Recommend,Active,Not Provided
+73,Aarav Anderson,Unknown,Unknown,Female,United Kingdom,New Delhi,644 Park Street,Hr Executive,Marketing,Startup Hub,Electronics,Great Service Will Buy Again,Inactive,Vip Customer
+74,Noah Singh,noahsingh@outlookcom,Unknown,Female,Not Provided,Bangalore,Unknown,Data Analyst,Not Provided,Acme And Co,Home And Kitchen,Product Was Okay Delivery Was Late,Active,Not Provided
+75,Arjun Iyer,arjuniyer@gmail.com,6204207858,Female,India,Not Provided,294 MG Road,Marketing Specialist,Marketing,Acme And Co,Home And Kitchen,Great Service Will Buy Again,Active,Vip Customer
+76,Anjali Nair,Unknown,7423293943,Male,Australia,Mumbai,Unknown,Sales Executive,Engineering,Tech Solutions Inc,Beauty,Not Provided,Inactive,Follow Up Required
+77,Arjun Iyer,arjuniyer@gmail.com,0259905878,Male,Canada,New Delhi,Unknown,Sr Software Engineer,Sales,Tech Solutions Inc,Not Provided,Excellent Quality Highly Recommend,Pending,Follow Up Next Week
+78,Sophia Singh,sophiasingh991@gmail.com,3922144800,Not Provided,United States Of America,New Delhi,Unknown,Sales Executive,Human Resources,Acme And Co,Home And Kitchen,Not Provided,Active,Follow Up Next Week
+79,Anderson Sneha,Unknown,4111628933,Not Provided,Australia,London,Unknown,Marketing Specialist,Engineering,Global Traders Pvt Ltd,Electronics,,Inactive,Not Provided
+80,Divya Smith,divyasmith@gmail.com,Unknown,Male,United States Of America,Mumbai,Unknown,Sr Software Engineer,Marketing,Tech Solutions Inc,Beauty,Not Satisfied And Want A Refund,Inactive,No Notes
+81,Priya Verma,priyaverma@company.co.in,8091418063,Female,India,New York,Unknown,Not Provided,Sales,Tech Solutions Inc,Beauty,Bad Experience Customer Support Unhelpful,Pending,Follow Up Required
+82,Sneha Clark,snehaclark@yahoo.com,9443184799,Not Provided,Canada,New Delhi,Unknown,Product Manager,Not Provided,Global Traders Pvt Ltd,Books,Great Service Will Buy Again,Active,Not Provided
+83,Karan Clark,Unknown,6052358574,Male,United Kingdom,Mumbai,"791 MG Road, Apt 4B",Hr Executive,Product,Startup Hub,Electronics,Excellent Quality Highly Recommend,Inactive,Not Provided
+84,Emma Patel,Unknown,2655239948,Not Provided,Not Provided,New Delhi,804 MG Road,Sr Software Engineer,Product,Not Provided,Home And Kitchen,Excellent Quality Highly Recommend,Inactive,Vip Customer
+85,Olivia Chopra,oliviachopra@outlook.com,Unknown,Male,Not Provided,London,550 Park Street,Data Analyst,Product,Bright Future Llc,Sports And Fitness,Bad Experience Customer Support Unhelpful,Active,Follow Up Needed
+86,John Hall,johnhall@yahoo.com,Unknown,Other,Australia,London,Unknown,Hr Executive,Product,Tech Solutions Inc,Electronics,Excellent Quality Highly Recommend,Active,Follow Up Needed
+87,Emma Clark,Unknown,2367679958,Male,Canada,New York,Unknown,Data Analyst,Human Resources,Startup Hub,Books,Not Provided,Inactive,Not Provided
+88,Olivia Reddy,Unknown,3836209915,Not Provided,Australia,Mumbai,Unknown,Sr Software Engineer,Sales,Global Traders Pvt Ltd,Home And Kitchen,Bad Experience Customer Support Unhelpful,Active,No Notes
+89,Reddy Karan,karanreddy@gmail.com,8829369122,Other,India,Mumbai,Unknown,Sales Executive,Product,Bright Future Llc,Beauty,,Active,No Notes
+90,James Smith,jamessmith@company.co.in,Unknown,Male,India,New Delhi,"912 MG Road, Flat 3",Sales Executive,Engineering,Bright Future Llc,Clothing,Product Was Okay Delivery Was Late,Active,Follow Up Next Week
+91,James Reddy ,Unknown,7469471369,Female,United Kingdom,London,23 Park Street,Sr Software Engineer,Human Resources,Tech Solutions Inc,Sports And Fitness,Not Satisfied And Want A Refund,Active,Follow Up Next Week
+92,Liam Lewis ,Unknown,6561165836,Female,United Kingdom,New York,Unknown,Sr Software Engineer,Sales,Not Provided,Home And Kitchen,Product Was Okay Delivery Was Late,Active,Follow Up Needed
+93,Arjun Lewis,arjunlewis@gmail.com,Unknown,Other,United States Of America,New Delhi,Unknown,Product Manager,Product,Bright Future Llc,Sports And Fitness,Excellent Quality Highly Recommend,Active,Pending Review
+94,William Nair,Unknown,1846092406,Not Provided,United States Of America,New Delhi,329 MG Road,Sr Software Engineer,Finance,Not Provided,Books,Product Was Okay Delivery Was Late,Active,None
+95,Rohan Iyer,Unknown,Unknown,Female,India,Toronto,Unknown,Sr Software Engineer,Human Resources,Acme And Co,Home And Kitchen,Product Was Okay Delivery Was Late,Pending,None
+96,Priya Brown,priyabrown@gmail.com,Unknown,Not Provided,United Kingdom,London,"687 MG Road, Suite 12",Product Manager,Engineering,Bright Future Llc,Electronics,Product Was Okay Delivery Was Late,Not Provided,Follow Up Needed
+97,John Nair ,johnnair936@company.co.in,Unknown,Not Provided,Australia,Not Provided,Unknown,Data Analyst,Not Provided,Not Provided,Clothing,Great Service Will Buy Again,Pending,
+98,Sophia Reddy,sophiareddy@gmail.com,Unknown,Not Provided,Not Provided,New Delhi,Unknown,Sales Executive,Human Resources,Startup Hub,Sports And Fitness,Not Provided,Inactive,Follow Up Required
+99,Vikram Walker,Unknown,1862297631,Male,Canada,Toronto,918 Park Street,Product Manager,Marketing,Tech Solutions Inc,Books,Excellent Quality Highly Recommend,Active,Follow Up Required
+100,Noah Anderson ,Unknown,Unknown,Female,Not Provided,New Delhi,"803 MG Road, Suite 12",Product Manager,Sales,Startup Hub,Clothing,Great Service Will Buy Again,Active,None
+101,Aarav Brown,aaravbrown@yahoocom,8214956255,Female,United States Of America,New York,"858 MG Road, Suite 12",Sr Software Engineer,Finance,Tech Solutions Inc,Clothing,Excellent Quality Highly Recommend,Inactive,Pending Review
+102,Anjali Malhotra,anjalimalhotra@gmailcom,Unknown,Male,India,Not Provided,Unknown,Sr Software Engineer,Product,Acme And Co,Electronics,Excellent Quality Highly Recommend,Active,No Notes
+103,Anjali Brown,Unknown,Unknown,Other,United States Of America,London,"985 MG Road, Apt 4B",Hr Executive,Sales,Bright Future Llc,Beauty,Not Satisfied & Want Refund,Inactive,No Notes
+104,Vikram Malhotra ,Unknown,Unknown,Female,United States Of America,Toronto,117 Park Street,Data Analyst,Human Resources,Acme And Co,Clothing,Bad Experience Customer Support Unhelpful,Active,Not Provided
+105,Arjun Wilson,arjunwilson@gmail.com,8918991617,Other,India,Not Provided,Unknown,Data Analyst,Marketing,Bright Future Llc,Not Provided,,Active,Follow Up Required
+106,Isabella Verma,isabellaverma@gmail.com,Unknown,Other,India,New York,862 Park Street,Sr Software Engineer,Sales,Tech Solutions Inc,Clothing,Not Satisfied & Want Refund,Pending,None
+107,Emma Wilson,emmawilson362@gmail.com,Unknown,Male,Australia,Bangalore,"811 MG Road, Apt 4B",Product Manager,Human Resources,Tech Solutions Inc,Books,Not Provided,Not Provided,No Notes
+108,Vikram Walker,Unknown,4700527870,Male,United States Of America,London,Unknown,Sales Executive,Finance,Acme And Co,Electronics,Not Satisfied & Want Refund,Inactive,Vip Customer
+109,Meera Singh,Unknown,Unknown,Female,United States Of America,Mumbai,"255 MG Road, Flat 3",Data Analyst,Human Resources,Acme And Co,Sports And Fitness,Product Was Okay Delivery Was Late,Active,Vip Customer
+110,Emma Walker,walkeremma@gmail.com,Unknown,Not Provided,India,New York,Unknown,Product Manager,Finance,Bright Future Llc,Sports And Fitness,Not Satisfied & Want Refund,Active,None
+111,John Wilson,wilsonjohn@yahoocom,3522307676,Male,India,Bangalore,Unknown,Hr Executive,Engineering,Acme And Co,Electronics,Bad Experience Customer Support Unhelpful,Active,
+112,Emma Anderson ,Unknown,1752448024,Not Provided,India,New Delhi,Unknown,Product Manager,Human Resources,Acme And Co,Clothing,Not Provided,Active,Follow Up Required
+113,Priya Gupta,Unknown,Unknown,Not Provided,India,Toronto,Unknown,Sr Software Engineer,Engineering,Startup Hub,Books,,Inactive,Vip Customer
+114,Arjun Anderson,arjunanderson@gmail.com,9506952102,Male,India,New York,Unknown,Data Analyst,Sales,Acme And Co,Clothing,Not Provided,Inactive,Not Provided
+115,Lewis Meera,meeralewis@gmail.com,8842408715,Not Provided,United States Of America,London,Unknown,Data Analyst,Human Resources,Tech Solutions Inc,Clothing,Excellent Quality Highly Recommend,Active,
+116,Emma Singh,Unknown,Unknown,Male,United Kingdom,Mumbai,Unknown,Marketing Specialist,Finance,Tech Solutions Inc,Clothing,Bad Experience Customer Support Unhelpful,Inactive,Pending Review
+117,Divya Sharma,Unknown,6335356447,Other,United States Of America,Toronto,978 Park Street,Product Manager,Sales,Tech Solutions Inc,Books,Great Service Will Buy Again,Inactive,Not Provided
+118,Smith Anjali,anjalismith594@gmail.com,3507262401,Male,United States Of America,New York,100 Park Street,Sales Executive,Finance,Tech Solutions Inc,Beauty,Not Satisfied & Want Refund,Not Provided,No Notes
+119,Liam Smith,liamsmith@gmail.com,Unknown,Female,India,Bangalore,Unknown,Marketing Specialist,Engineering,Tech Solutions Inc,Clothing,Bad Experience Customer Support Unhelpful,Pending,Follow Up Required
+120,Sophia Clark,Unknown,7153314204,Male,India,New Delhi,Unknown,Hr Executive,Sales,Tech Solutions Inc,Books,Not Provided,Active,No Notes
+121,Sophia Malhotra,malhotrasophia@yahoo.com,Unknown,Male,India,New Delhi,Unknown,Marketing Specialist,Marketing,Acme And Co,Home And Kitchen,Great Service Will Buy Again,Pending,Not Provided
+122,Priya Brown,Unknown,7857907785,Female,United States Of America,London,539 Park Street,Hr Executive,Engineering,Startup Hub,Clothing,Not Provided,Pending,Not Provided
+123,Arjun Wilson ,arjunwilson@gmail.com,Unknown,Male,United States Of America,Bangalore,Unknown,Sr Software Engineer,Sales,Global Traders Pvt Ltd,Sports And Fitness,Not Provided,Inactive,Follow Up Needed
+124,Vikram Chopra,vikramchopra@gmail.com,Unknown,Not Provided,Not Provided,Bangalore,7 Park Street,Hr Executive,Not Provided,Bright Future Llc,Clothing,Bad Experience Customer Support Unhelpful,Inactive,Vip Customer
+125,Liam Chopra,liamchopra206@gmail.com,9409248454,Female,Australia,Mumbai,880 Park Street,Data Analyst,Product,Not Provided,Books,Bad Experience Customer Support Unhelpful,Inactive,Follow Up Next Week
+126,Noah Brown ,Unknown,4669453692,Not Provided,Canada,Mumbai,682 MG Road,Sr Software Engineer,Product,Global Traders Pvt Ltd,Sports And Fitness,Excellent Quality Highly Recommend,Inactive,Pending Review
+127,Patel Aarav,Unknown,6672176728,Not Provided,United States Of America,New Delhi,697 Park Street,Hr Executive,Finance,Not Provided,Beauty,Great Service Will Buy Again,Active,Not Provided
+128,James Sharma,Unknown,3970357086,Female,India,Bangalore,"329 MG Road, Suite 12",Data Analyst,Sales,Bright Future Llc,Clothing,Great Service Will Buy Again,Inactive,Pending Review
+129,Meera Lewis,meeralewis@gmail.com,Unknown,Male,United States Of America,New York,Unknown,Data Analyst,Finance,Not Provided,Books,Product Was Okay Delivery Was Late,Inactive,None
+130,Priya Smith,priyasmith@gmail.com,Unknown,Female,Australia,New Delhi,Unknown,Sr Software Engineer,Engineering,Tech Solutions Inc,Electronics,Not Provided,Pending,Pending Review
+131,Aarav Lewis,Unknown,4382238171,Male,India,London,Unknown,Marketing Specialist,Human Resources,Tech Solutions Inc,Home And Kitchen,Great Service Will Buy Again,Active,Not Provided
+132,Meera Iyer ,Unknown,Unknown,Female,United States Of America,New York,203 Park Street,Data Analyst,Product,Acme And Co,Sports And Fitness,Great Service Will Buy Again,Active,Not Provided
+133,Sneha Nair,nairsneha@gmail.com,7507137449,Male,United States Of America,Bangalore,787 Park Street,Product Manager,Engineering,Bright Future Llc,Home And Kitchen,Great Service Will Buy Again,Inactive,Not Provided
+134,Meera Verma,meeraverma@yahoo.com,7355214187,Not Provided,India,Bangalore,"610 MG Road, Flat 3",Sr Software Engineer,Human Resources,Global Traders Pvt Ltd,Home And Kitchen,Not Satisfied And Want A Refund,Pending,Not Provided
+135,Rohan Johnson,Unknown,1507424113,Male,Not Provided,New Delhi,333 Park Street,Data Analyst,Engineering,Bright Future Llc,Clothing,Not Satisfied & Want Refund,Active,
+136,Sophia Nair,Unknown,8831010793,Male,United States Of America,Bangalore,Unknown,Not Provided,Human Resources,Acme And Co,Home And Kitchen,Great Service Will Buy Again,Not Provided,Vip Customer
+137,Divya Iyer,iyerdivya839@company.co.in,Unknown,Male,Australia,Bangalore,Unknown,Marketing Specialist,Engineering,Tech Solutions Inc,Clothing,Great Service Will Buy Again,Pending,No Notes
+138,Vikram Johnson,vikramjohnson@gmailcom,5107078519,Male,India,New York,Unknown,Hr Executive,Human Resources,Not Provided,Not Provided,Bad Experience Customer Support Unhelpful,Inactive,Follow Up Required
+139,Verma Meera,meeraverma@company.co.in,6684981143,Male,Australia,New Delhi,Unknown,Sr Software Engineer,Finance,Startup Hub,Sports And Fitness,,Not Provided,No Notes
+140,Liam Brown,Unknown,Unknown,Female,Australia,New York,344 Park Street,Sr Software Engineer,Finance,Global Traders Pvt Ltd,Beauty,Bad Experience Customer Support Unhelpful,Active,
